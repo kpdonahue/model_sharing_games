@@ -1,6 +1,6 @@
 # Model Sharing Games
 
-This is supporting code for https://arxiv.org/abs/2010.00753, which will appear in AAAI 2021. Note that all of the results in this paper are theoretical and so none of them strictly depend on the results in these notebooks. However, we did end up writing a fair bit of code during the process of this paper, mainly to check conjectures and verifying that theorems matched our intuition. Hopefully, these notebooks will be useful for readers who wish to experiment with our area of study themselves. If you have any questions or find any errors, please email <kdonahue@cs.cornell.edu>. 
+This is supporting code for https://arxiv.org/abs/2010.00753 (AAAI 2021). Note that all of the results in this paper are theoretical and so none of them strictly depend on the results in these notebooks. However, we did end up writing a fair bit of code during the process of this paper, mainly to check conjectures and verifying that theorems matched our intuition. Hopefully, these notebooks will be useful for readers who wish to experiment with our area of study themselves. If you have any questions or find any errors, please email <kdonahue@cs.cornell.edu>. 
 
 ## Overview of notebooks
 
