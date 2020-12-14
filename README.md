@@ -8,5 +8,5 @@ This is supporting code for https://arxiv.org/abs/2010.00753 (AAAI 2021). Note t
 
 `02_regression_simulation` does the same analysis for the linear regression case. In the limit where n>>D (there are many more data points than the dimension of the linear regression problem), linear regression has the same error as mean estimation, so future cases simply use the mean estimation errors. 
 
-`03_calculate_stability` uses the results of `01_mean_simulation` to build tools for determining which arrangements of a given set of players are stable. 
+`03_calculate_stability` uses the results of `01_mean_simulation` to build tools for determining which arrangements of a given set of players are stable. It also reproduces tables and error values used in the Motivating Example section and the core stability exploration in the end of Appendix D. 
 
