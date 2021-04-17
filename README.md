@@ -10,3 +10,17 @@ This is supporting code for https://arxiv.org/abs/2010.00753 (AAAI 2021). Note t
 
 `03_calculate_stability` uses the results of `01_mean_simulation` to build tools for determining which arrangements of a given set of players are stable. It also reproduces tables and error values used in the Motivating Example section and the core stability exploration in the end of Appendix D. 
 
+## Versions
+
+Python: 3.7.5  
+
+numpy: 1.17.1  
+
+pandas: 0.25.3 
+
+scipy: 1.3.1 
+
+matplotlib: 3.1.1 
+
+more-itertools: 7.2.0 
+
